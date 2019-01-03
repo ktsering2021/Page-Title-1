@@ -1,0 +1,17 @@
+.donate{
+    text-align:center;
+}
+.image1{
+    display:flex;
+    justify-content:space-around;
+}
+img{
+    width:100px;
+    height:200px;
+    padding:50px;
+    border:10px dotted green;
+    margin:5px;
+}
+.hope{
+    text-align:center;
+}
